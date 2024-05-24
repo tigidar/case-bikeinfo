@@ -4,14 +4,7 @@ import bikeinfo.*
 
 case class MinimalRoutes()(implicit cc: castor.Context,
                            log: cask.Logger) 
-
 extends cask.Routes {
-
-  val jsonPath = 
-    os.pwd / "app" / "test" / "resources"
-
-  val stasjonStatus = os.read(jsonPath / "stasjon_status.json")
-  val stasjonInfo = os.read(jsonPath / "stasjoner.json")
 
   @cask.get("/")
   def index() = {
@@ -21,8 +14,6 @@ extends cask.Routes {
   @cask.staticFiles("/assets")
   def staticFileRoutes() = "app/resources/bikeinfo/assets"
 
-  @cask.staticFiles("/files")
-  def staticFileRoutes2() = "app/resources/bikeinfo/cask"
 
   @cask.staticResources(
     "/bikeinfo",
@@ -32,13 +23,13 @@ extends cask.Routes {
 
   @cask.get("/bikes")
   def bikes() = {
-    val info = JsonParser(stasjonStatus, stasjonInfo)
-    upickle.default.write(info, indent = 2) 
-  }
+    val host = "https://gbfs.urbansharing.com/oslobysykkel.no"
 
-  @cask.post("/do-thing")
-  def doThing(request: cask.Request) = {
-    request.text().reverse
+    val stasjonStatus = requests.get(s"${host}/station_status.json")
+    val stasjonInfo = requests.get(s"${host}/station_information.json")
+
+    val info = JsonParser(stasjonStatus.text(), stasjonInfo.text())
+    upickle.default.write(info, indent = 2) 
   }
 
   initialize()

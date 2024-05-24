@@ -5,6 +5,7 @@ object app extends ScalaModule {
 
   def ivyDeps = Agg(
     ivy"com.lihaoyi::cask:0.9.2",
+    ivy"com.lihaoyi::requests:0.8.2",
     ivy"com.lihaoyi::upickle:3.3.1",
     ivy"com.lihaoyi::ujson:3.3.1",
     ivy"com.lihaoyi::os-lib:0.9.1",

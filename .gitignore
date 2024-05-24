@@ -1,5 +1,19 @@
 *.class
 *.log
 
+**/.bsp
+**/node_modules/
+**/out/
+**/target/
+**/.metals/
+**/.bloop/
+css/node_modules
+css/dist
+**/model-*.pkl
+**/.scala-build/
+**/mill.*
+
+frontend/project/project/
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

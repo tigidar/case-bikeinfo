@@ -1,4 +1,6 @@
-package bikeinfo
+package bikeinfo.data
+
+import bikeinfo.model.*
 
 object DataExample:
 

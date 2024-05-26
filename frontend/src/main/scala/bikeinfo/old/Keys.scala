@@ -1,4 +1,4 @@
-package bikeinfo
+package bikeinfo.old
 
 import org.scalajs.dom.KeyboardEvent
 

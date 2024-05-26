@@ -1,4 +1,4 @@
-package bikeinfo
+package bikeinfo.model
 
 final case class BikeStation(
   stationId: Int,

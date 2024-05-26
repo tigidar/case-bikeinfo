@@ -1,6 +1,12 @@
-package bikeinfo
+package bikeinfo.old
 
+import scala.scalajs.js
+import scala.scalajs.js.annotation.*
 import com.raquo.laminar.api.L.{*, given}
+
+// import javascriptLogo from "/javascript.svg"
+@js.native @JSImport("/javascript.svg", JSImport.Default)
+val javascriptLogo: String = js.native
 
 object ViteDemo:
   

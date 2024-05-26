@@ -1,4 +1,4 @@
-package bikeinfo
+package bikeinfo.old
 
 import com.raquo.laminar.api.L.{*, given}
 import scala.util.Random

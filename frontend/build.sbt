@@ -1,12 +1,19 @@
 import org.scalajs.linker.interface.ModuleSplitStyle
 
-lazy val livechart = project.in(file("."))
+lazy val bikeinfo = project.in(file("."))
   .enablePlugins(ScalaJSPlugin) // Enable the Scala.js plugin in this project
   .settings(
     scalaVersion := "3.3.1",
 
     // Tell Scala.js that this is an application with a main method
     scalaJSUseMainModuleInitializer := true,
+
+    /*
+    Compile / fastOptJS / artifactPath := 
+      (baseDirectory.value / "src" / "main" / "web" / "scalajs-bundle.js"),
+    */
+
+    Compile / fastOptJS / artifactPath := baseDirectory.value / "src" / "main" / "web" / "scalajs-output.js",
 
     /* Configure Scala.js to emit modules in the optimal way to
      * connect to Vite's incremental reload.
@@ -18,7 +25,7 @@ lazy val livechart = project.in(file("."))
     scalaJSLinkerConfig ~= {
       _.withModuleKind(ModuleKind.ESModule)
         .withModuleSplitStyle(
-          ModuleSplitStyle.SmallModulesFor(List("sykkelinfo")))
+          ModuleSplitStyle.SmallModulesFor(List("bikeinfo")))
     },
 
     /* Depend on the scalajs-dom library.

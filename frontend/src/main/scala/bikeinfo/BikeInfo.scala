@@ -1,16 +1,12 @@
 package bikeinfo
 
 import scala.scalajs.js
-import scala.scalajs.js.annotation.*
 import com.raquo.laminar.api.L.{*, given}
 
 import org.scalajs.dom
-import bikeinfo.SearchPanel.selectedBikeStationBus
-import bikeinfo.SearchPanel.selectedBikeStationRx
-
-// import javascriptLogo from "/javascript.svg"
-@js.native @JSImport("/javascript.svg", JSImport.Default)
-val javascriptLogo: String = js.native
+import bikeinfo.state.ViewState
+import bikeinfo.view.*
+import bikeinfo.model.*
 
 @main
 def LiveChart(): Unit =
@@ -21,65 +17,75 @@ def LiveChart(): Unit =
 
 enum View:
   case SearchPage()
-  case MapPage(bikeStation: BikeStation)
-
-enum LeafMap:
-  case Show
-  case Hide
+  case MapPage()
 
 object Main:
 
-  def bikeTable() = BTable.render()
+  private def setupMapInteractivity() =
+    ViewState.selectedBikeStationRx.foreach {
+      case Some(bikeStation) =>
+        BikemapRef.bikeMap.showStation(
+          bikeStation.lat,
+          bikeStation.lon,
+          bikeStation.name
+        )
+      case None =>
+        BikemapRef.bikeMap.hideMap()
+    }(unsafeWindowOwner)
 
-  val showMapObs = Observer[dom.MouseEvent](
-    onNext = ev => {
-      val leafMap: js.Any = js.Dynamic.global.leafletApi.showMap()
-      dom.console.log(ev.screenX)
+  val activeWindow: Var[View] = Var(View.MapPage())
+
+  def searchButton = SearchPanel.baseButton(
+    "Search",
+    onClick.map(_ => View.SearchPage()) --> activeWindow
+  )
+
+  def findInMapButton = SearchPanel.baseButton(
+    "Find in Map",
+    onClick.map(_ => View.MapPage()) --> activeWindow
+  )
+
+  def switchWindow() = span(
+    child <-- activeWindow.toObservable.map {
+      case View.MapPage()    => searchButton
+      case View.SearchPage() => findInMapButton
     }
   )
 
-  val hideMapObs = Observer[dom.MouseEvent](
-    onNext = ev => {
-      val leafMap: js.Any = js.Dynamic.global.leafletApi.hideMap()
-      dom.console.log("hiding map")
-    }
+  def searchWindow = div(
+    div(SearchPanel.searchField()),
+    BikeStationTable.render()
   )
 
-  val bikeStationObserver: Observer[Option[BikeStation]] =
-    Observer[Option[BikeStation]] {
-      case Some(station) => js.Dynamic.global.leafletApi.showMap()
-      case None => // do nothing
+  def mapWindow = div(
+    SelectInMap.render()
+  )
+
+  def mainWindow = div(
+    child <-- activeWindow.toObservable.map {
+      case View.MapPage() => mapWindow
+      case View.SearchPage() =>
+        BikemapRef.bikeMap.hideMap()
+        searchWindow
     }
+  )
 
   def appElement(): Element =
+    setupMapInteractivity()
     div(
-      h1("Bikes Available"),
-      div(SearchPanel.searchField()),
-      bikeTable(),
-      child <-- SearchPanel.selectedBikeStationRx.map {
-        case Some(bikeStation) =>
-          scala.scalajs.js.Dynamic.global.leafletApi.showMap(
-            bikeStation.lat,
-            bikeStation.lon,
-            bikeStation.name
+      h1("Bikes Available", switchWindow()),
+      mainWindow,
+      child <-- ViewState.MapIsVisible.toObservable.map {
+        case true =>
+          button(
+            "Clear Map",
+            onClick --> { _ =>
+              BikemapRef.bikeMap.clearMap()
+            }
           )
-          div(
-            button(
-              "CLOSE MAP",
-              onClick.mapTo(None) --> selectedBikeStationBus.writer
-            )
-          )
-        case None =>
-          js.Dynamic.global.leafletApi.hideMap()
-          div(
-            "search for a bike station:",
-            div("type: jen"),
-            div("hit <ENTER>")
-          )
+        case false => emptyNode
       }
     )
-
   end appElement
 
 end Main
-

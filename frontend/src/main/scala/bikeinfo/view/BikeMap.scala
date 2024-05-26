@@ -15,7 +15,7 @@ class BikemapJs(
   clickAction: js.Function2[Double, Double, Unit]
 ) extends js.Object {
 
-  def showStation(lat: Double,lon: Double,name: String): Unit =
+  def showStation(bikeStation: js.Object): Unit =
     js.native
 
   def showAll(stations: js.Array[js.Object]): Unit = js.native
@@ -30,9 +30,11 @@ final class Bikemap(
   map: BikemapJs
 ):
   
-  def showStation(lat: Double,lon: Double,name: String): Unit =
+  def showStation(bikeStation: BikeStation): Unit =
     ViewState.showMap()
-    map.showStation(lat,lon,name)
+    val bikeJs = upickle.default.write(bikeStation)
+    // a bit inefficient, but saving a frew keystrokes
+    map.showStation(js.JSON.parse(bikeJs).asInstanceOf[js.Object])
 
   def showAll(stations: js.Array[js.Object]): Unit =
     ViewState.showMap()
@@ -68,11 +70,8 @@ object BikemapRef:
     .take(3)
     .map(_._1)
     .map { bs =>
-      js.Dynamic.literal(
-        lat = bs.lat,   // Latitude
-        lon = bs.lon,  // Longitude
-        name = bs.name
-      )
+      val bikeJs = upickle.default.write(bs)
+      js.JSON.parse(bikeJs).asInstanceOf[js.Object]
     }
     .toJSArray
 

@@ -3,9 +3,6 @@ import L from 'leaflet'
 
 export default class BikeMap {
 
-
-
-
   constructor(lat, lon, zoomLevel, clickCallbackFn) {
     this.map = L.map('map');
     this.lat = lat;
@@ -38,7 +35,16 @@ export default class BikeMap {
 
   }
 
-  showStation(lat,lon,name) {
+  createMarker(station) {
+      const {lat,lon, name,availableDocks,availableBikes} = station;
+      const marker = L.marker([lat,lon]);
+      marker.bindPopup(
+        `<div><div>${name}</div><div>available docks: ${availableDocks}</div><div>available bikes: ${availableBikes}</div></div>`
+      );
+    return marker;
+  }
+
+  showStation(station) {
     var mapElement = document.getElementById('map');
     if (mapElement) {
         mapElement.style.display = 'block';
@@ -46,9 +52,7 @@ export default class BikeMap {
 
     this.map.setView([this.lat, this.lon], this.zoomLevel);
     this.tileLayer.addTo(this.map);
-
-    const marker = L.marker([lat,lon], this.svgIcon);
-    marker.bindPopup(`<b>${name}</b>`).openPopup();
+    const marker = this.createMarker(station);
     this.positionMarker.addLayer(marker);
   }
 
@@ -63,11 +67,10 @@ export default class BikeMap {
     this.tileLayer.addTo(this.map);
 
     stations.map ((s) => {
-      const {lat,lon,name} = s;
-      const marker = L.marker([lat,lon]);
-      marker.bindPopup(`<b>${name}</b>`);
+      const marker = this.createMarker(s);
       this.closeByMarkers.addLayer(marker);
     });
+
   }
 
   clearMap() {

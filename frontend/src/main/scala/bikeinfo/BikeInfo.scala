@@ -25,9 +25,7 @@ object Main:
     ViewState.selectedBikeStationRx.foreach {
       case Some(bikeStation) =>
         BikemapRef.bikeMap.showStation(
-          bikeStation.lat,
-          bikeStation.lon,
-          bikeStation.name
+          bikeStation
         )
       case None =>
         BikemapRef.bikeMap.hideMap()

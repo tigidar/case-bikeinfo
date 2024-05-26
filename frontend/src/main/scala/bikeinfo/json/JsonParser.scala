@@ -1,8 +1,9 @@
-package bikeinfo
+package bikeinfo.json
 
 import ujson.*
 import scala.util.Try
 import scala.collection.mutable.ArrayBuffer
+import bikeinfo.model.*
 
 object JsonParser:
 

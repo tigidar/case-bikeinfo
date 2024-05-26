@@ -1,4 +1,4 @@
-package bikeinfo
+package bikeinfo.old
 
 import scala.scalajs.js.annotation.JSExportTopLevel
 import org.scalajs.dom.document

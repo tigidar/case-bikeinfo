@@ -2,8 +2,8 @@ package bikeinfo.view
 
 import scala.scalajs.js
 import scala.scalajs.js.annotation.{JSImport}
-import bikeinfo.data.DataExample
 import bikeinfo.state.ViewState
+import bikeinfo.data.BikeStationData
 import bikeinfo.model.*
 
 @JSImport("/bikemap/Bikemap.js", JSImport.Default)
@@ -62,7 +62,7 @@ object BikemapRef:
   import scala.scalajs.js.JSConverters._
   private def findClosestStations(reference: Coordinate): 
     js.Array[js.Object] = 
-    DataExample.bikes.map { station =>
+    BikeStationData.getStoredData().map { station =>
       val lat = station.lat
       val lon = station.lon
       (station, squaredDistance((lat,lon),reference))

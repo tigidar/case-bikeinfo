@@ -69,6 +69,7 @@ object Main:
   )
 
   def appElement(): Element =
+    data.BikeStationData.saveBikeInfo()
     setupMapInteractivity()
     div(
       h1("Bikes Available", switchWindow()),

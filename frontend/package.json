@@ -13,7 +13,9 @@
     "@scala-js/vite-plugin-scalajs": "^1.0.0",
     "eslint": "^9.3.0",
     "globals": "^15.3.0",
-    "vite": "^4.1.0"
+    "vite": "^4.1.0",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-rewrite": "^0.0.8"
   },
   "dependencies": {
     "leaflet": "^1.9.4"

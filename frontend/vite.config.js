@@ -9,9 +9,18 @@ export default defineConfig({
       '@my-modules/': path.resolve(__dirname, './src/main/web/'),
     },
   },
+  server: {
+    proxy: {
+      '/bikes': {
+        target: 'http://localhost:8080/bikes',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/bikes/, ''),
+      }
+    }
+  },
     // Alias to treat your custom JS as modules
   build: {
-    outDir: '../../dist',
+    outDir: '../../../dist',
     emptyOutDir: true
   },
   plugins: [scalaJSPlugin()],

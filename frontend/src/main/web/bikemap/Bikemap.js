@@ -16,7 +16,6 @@ export default class BikeMap {
 
     this.positionMarker = new L.LayerGroup();
     this.positionMarker.addTo(this.map);
-
     this.closeByMarkers = new L.LayerGroup([]);
     this.closeByMarkers.addTo(this.map);
 

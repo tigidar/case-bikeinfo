@@ -1,0 +1,2652 @@
+[
+  {
+    "stationId": 574,
+    "lat": 59.9107393,
+    "lon": 10.7609998,
+    "name": "Annette Thommessens Plass",
+    "address": "Annette Thommesens Plass",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 619,
+    "lat": 59.942780248542554,
+    "lon": 10.722993731144015,
+    "name": "Bak Niels Treschows hus nord",
+    "address": "Problemveien P. A. Munchs Hus",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 42
+  },
+  {
+    "stationId": 507,
+    "lat": 59.91914743024347,
+    "lon": 10.76412958416006,
+    "name": "Jens Bjelkes Gate",
+    "address": "Jens Bjelkes gate / Trondheimsveien",
+    "description": "",
+    "availableDocks": 20,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 455,
+    "lat": 59.922337,
+    "lon": 10.7617503,
+    "name": "Sofienbergparken sør",
+    "address": "Sofienberggata 17",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 444,
+    "lat": 59.925265,
+    "lon": 10.750462,
+    "name": "AHO",
+    "address": "Arkitektur og Designhøgskolen i Oslo",
+    "description": "",
+    "availableDocks": 11,
+    "availableBikes": 8
+  },
+  {
+    "stationId": 735,
+    "lat": 59.90321254732584,
+    "lon": 10.7673442932541,
+    "name": "Oslo Hospital",
+    "address": "Oslo Gate 39",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 458,
+    "lat": 59.928349,
+    "lon": 10.77837,
+    "name": "Jenny Braatens Plass",
+    "address": "Trondheimsveien 135",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 563,
+    "lat": 59.9126844,
+    "lon": 10.7229003,
+    "name": "Huitfeldts gate",
+    "address": "Huitfeldts gate 24",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 381,
+    "lat": 59.91252,
+    "lon": 10.76224,
+    "name": "Grønlands torg",
+    "address": "Grønlands torg",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 624,
+    "lat": 59.9287502718149,
+    "lon": 10.767546377298158,
+    "name": "Dælenenggata",
+    "address": "Dælenenggata 38",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 388,
+    "lat": 59.9163309,
+    "lon": 10.716349,
+    "name": "Skovveien",
+    "address": "Skovveien ved Frognerveien",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 616,
+    "lat": 59.906922167198275,
+    "lon": 10.746530272588245,
+    "name": "Salt",
+    "address": "Salt ved Langkaia",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 589,
+    "lat": 59.89853221724158,
+    "lon": 10.674403950323182,
+    "name": "Huk 1",
+    "address": "Huk",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 436,
+    "lat": 59.9244031,
+    "lon": 10.7130691,
+    "name": "Vestkanttorvet",
+    "address": "Vestkanttorvet",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 2357,
+    "lat": 59.91111544486938,
+    "lon": 10.730396895054923,
+    "name": "Aker Brygge 2 mot Rådhusplassen",
+    "address": "Brynjulf Bulls plass 2, 0250 Oslo",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 2329,
+    "lat": 59.91271286014364,
+    "lon": 10.727170827087008,
+    "name": "Via Vika",
+    "address": "Dronning Mauds gate 10",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 1101,
+    "lat": 59.91065301806209,
+    "lon": 10.737365277561025,
+    "name": "Stortingstunellen",
+    "address": "Rådhusgata 34",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 541,
+    "lat": 59.9080552,
+    "lon": 10.7479977,
+    "name": "Langkaia",
+    "address": "rådhusgata / langkaia",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 608,
+    "lat": 59.93068679863987,
+    "lon": 10.746273349149249,
+    "name": "Colletts gate",
+    "address": "Colletts/Diriks gate",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 400,
+    "lat": 59.919927,
+    "lon": 10.735428,
+    "name": "OsloMet",
+    "address": "Pilestredet 35",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 1755,
+    "lat": 59.91118372188379,
+    "lon": 10.730034556850455,
+    "name": "Aker Brygge 1 mot Nasjonalmuseet",
+    "address": "Aker Brygge",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 29
+  },
+  {
+    "stationId": 411,
+    "lat": 59.923240042155456,
+    "lon": 10.792831438028703,
+    "name": "Hasle Torg",
+    "address": "Hasle Torg, Grenseveien 54",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 620,
+    "lat": 59.92377440938114,
+    "lon": 10.734712874574,
+    "name": "Bislettgata",
+    "address": "Bislettgata",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 35
+  },
+  {
+    "stationId": 425,
+    "lat": 59.932792,
+    "lon": 10.734457,
+    "name": "Adamstuen",
+    "address": "Adamstuen",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 5
+  },
+  {
+    "stationId": 526,
+    "lat": 59.9138973,
+    "lon": 10.7423101,
+    "name": "Lille Grensen",
+    "address": "Lille Grensen - Akersgata 43",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 501,
+    "lat": 59.935995,
+    "lon": 10.765413,
+    "name": "Krebs' gate",
+    "address": "Vogstgate 60",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 519,
+    "lat": 59.918578143336774,
+    "lon": 10.703899530059402,
+    "name": "Thomas Heftyes plass",
+    "address": "Bygdøy alle/Elisenbergveien",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 22
+  },
+  {
+    "stationId": 447,
+    "lat": 59.904473,
+    "lon": 10.786167,
+    "name": "Kværnerbyen",
+    "address": "Smeltedigelen 1",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 461,
+    "lat": 59.908576,
+    "lon": 10.786856,
+    "name": "Vålerenga",
+    "address": "Strømsveien 23D",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 433,
+    "lat": 59.931828,
+    "lon": 10.748745,
+    "name": "Ila",
+    "address": "Ovenfor Claus Riis' gate",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 552,
+    "lat": 59.908004655328924,
+    "lon": 10.7625700380287,
+    "name": "Trelastgata",
+    "address": "Trelastgata 21",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 580,
+    "lat": 59.939025551395765,
+    "lon": 10.723002619643406,
+    "name": "Georg Morgenstiernes hus",
+    "address": "Moltke Moes vei 37",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 42
+  },
+  {
+    "stationId": 537,
+    "lat": 59.9179676629428,
+    "lon": 10.738628884264756,
+    "name": "St. Olavs gate",
+    "address": "St.Olavs gate 21 - Pilestredet",
+    "description": "",
+    "availableDocks": 16,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 2307,
+    "lat": 59.946219381760216,
+    "lon": 10.724626314653563,
+    "name": "Domus Athletica",
+    "address": "Trimveien 4",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 30
+  },
+  {
+    "stationId": 404,
+    "lat": 59.914306,
+    "lon": 10.720202,
+    "name": "Oslo Handelsgymnasium",
+    "address": "Solligata",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 523,
+    "lat": 59.9115945,
+    "lon": 10.7617736,
+    "name": "Tøyenbekken",
+    "address": "Tøyenbekken",
+    "description": "",
+    "availableDocks": 21,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 598,
+    "lat": 59.923229,
+    "lon": 10.766171,
+    "name": "Sofienbergparken nord",
+    "address": "Helgesens gate 58",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 415,
+    "lat": 59.929542,
+    "lon": 10.781053,
+    "name": "Sinsenveien",
+    "address": "Sinsenveien ",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 534,
+    "lat": 59.9102277,
+    "lon": 10.7208788,
+    "name": "Filipstadveien",
+    "address": "Filipstadveien El-bilparkering/busslomme",
+    "description": "",
+    "availableDocks": 38,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 593,
+    "lat": 59.9392403070359,
+    "lon": 10.768771317790996,
+    "name": "Bjølsen mølle",
+    "address": "Sandakerveien 51",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 29
+  },
+  {
+    "stationId": 2280,
+    "lat": 59.913150534075015,
+    "lon": 10.732281291700133,
+    "name": "Klingenberggata",
+    "address": "Olav Vs Gate 5",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 469,
+    "lat": 59.920852,
+    "lon": 10.733357,
+    "name": "Studentparlamentet",
+    "address": "Studentparlamentet",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 30
+  },
+  {
+    "stationId": 421,
+    "lat": 59.92806670615684,
+    "lon": 10.751202636819613,
+    "name": "Alexander Kiellands Plass",
+    "address": "Alexander Kiellands Plass",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 450,
+    "lat": 59.919524,
+    "lon": 10.70884,
+    "name": "Elisenberg",
+    "address": "Elisenberg",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 378,
+    "lat": 59.92984300295666,
+    "lon": 10.711284727205708,
+    "name": "Colosseum Kino",
+    "address": "Colosseum",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 418,
+    "lat": 59.907674,
+    "lon": 10.686843,
+    "name": "Norsk Folkemuseum",
+    "address": "Folkemuseet",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 475,
+    "lat": 59.9146509,
+    "lon": 10.7598719,
+    "name": "Hausmanns bru",
+    "address": "Hausmanns bru",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 4
+  },
+  {
+    "stationId": 481,
+    "lat": 59.910924,
+    "lon": 10.736215,
+    "name": "Rådhusgata",
+    "address": "Rådhusgata",
+    "description": "",
+    "availableDocks": 26,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 486,
+    "lat": 59.93522040770026,
+    "lon": 10.726476622250004,
+    "name": "Blindern Studenthus",
+    "address": "Blindernveien 2",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 396,
+    "lat": 59.91300035973293,
+    "lon": 10.746760585982287,
+    "name": "Kirkeristen",
+    "address": "Stortorvet 13",
+    "description": "",
+    "availableDocks": 14,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 556,
+    "lat": 59.9262242,
+    "lon": 10.7296246,
+    "name": "Pilestredet",
+    "address": "Pilestredet 75",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 746,
+    "lat": 59.919001,
+    "lon": 10.692321,
+    "name": "Bygdøy allé",
+    "address": "Bygdøy allé",
+    "description": "",
+    "availableDocks": 7,
+    "availableBikes": 5
+  },
+  {
+    "stationId": 578,
+    "lat": 59.922777,
+    "lon": 10.738655,
+    "name": "Hallings gate",
+    "address": "Hallings gate 2",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 567,
+    "lat": 59.945450633702556,
+    "lon": 10.713867957672134,
+    "name": "Forskningsveien",
+    "address": "Forskningsveien 1",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 39
+  },
+  {
+    "stationId": 497,
+    "lat": 59.919252,
+    "lon": 10.774712,
+    "name": "Sirkustomta",
+    "address": "Sirkustomta",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 613,
+    "lat": 59.92095635370271,
+    "lon": 10.714055629614734,
+    "name": "Schives gate",
+    "address": "Schives gate",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 2330,
+    "lat": 59.91323316606503,
+    "lon": 10.749958763650312,
+    "name": "Stjerneplassen",
+    "address": "Storgata 10a",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 787,
+    "lat": 59.91015615055511,
+    "lon": 10.743456971511705,
+    "name": "Kirkegata 15",
+    "address": "Kirkegata 15",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 454,
+    "lat": 59.9198098,
+    "lon": 10.651118,
+    "name": "Furulund",
+    "address": "Vækerøveien 22",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 627,
+    "lat": 59.922723981014094,
+    "lon": 10.67862514536896,
+    "name": "Skøyen Stasjon",
+    "address": "Skøyen Stasjon",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 466,
+    "lat": 59.937913,
+    "lon": 10.73048,
+    "name": "Ullevålsalléen",
+    "address": "Ullevålsalléen",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 407,
+    "lat": 59.937743,
+    "lon": 10.751648,
+    "name": "Sagene bussholdeplass",
+    "address": "Sagene bussholdeplass",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 470,
+    "lat": 59.92979845370007,
+    "lon": 10.743540765932096,
+    "name": "St. Hanshaugen park nord",
+    "address": "Geitmyrsveien 35A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 399,
+    "lat": 59.929545,
+    "lon": 10.7489862,
+    "name": "Uelands gate",
+    "address": "Uelands gate 40",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 33
+  },
+  {
+    "stationId": 512,
+    "lat": 59.9131891,
+    "lon": 10.7897605,
+    "name": "Ensjø T-bane",
+    "address": "Ensjøveien 22",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 28
+  },
+  {
+    "stationId": 602,
+    "lat": 59.9304645,
+    "lon": 10.6757833,
+    "name": "Jarlsborgveien",
+    "address": "Jarlsborgveien- Hoffsveien",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 585,
+    "lat": 59.92114988507087,
+    "lon": 10.754714015938562,
+    "name": "Nordre gate",
+    "address": "Nedre gate 2",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 540,
+    "lat": 59.93363159074286,
+    "lon": 10.769118139881124,
+    "name": "Lilleborgbanen",
+    "address": "Ole Bulls gate 43",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 32
+  },
+  {
+    "stationId": 392,
+    "lat": 59.910180852633516,
+    "lon": 10.751698750995615,
+    "name": "Sjøsiden 2 ved fontenen",
+    "address": "Christian Fredriks Plass",
+    "description": "",
+    "availableDocks": 49,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 588,
+    "lat": 59.9180141,
+    "lon": 10.7184345,
+    "name": "Meltzers gate",
+    "address": "Meltzers gate ved Skovveien",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 393,
+    "lat": 59.939244,
+    "lon": 10.774319,
+    "name": "Hans Nielsen Hauges plass",
+    "address": "Hans Nielsen Hauges plass 1",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 460,
+    "lat": 59.915417698024385,
+    "lon": 10.76933022142641,
+    "name": "Botanisk Hage sør",
+    "address": "Jens Bjelkes gate 39B",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 390,
+    "lat": 59.91424026794647,
+    "lon": 10.732771354719745,
+    "name": "Saga Kino",
+    "address": "Saga Kino",
+    "description": "",
+    "availableDocks": 26,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 617,
+    "lat": 59.92716771401357,
+    "lon": 10.749754560118863,
+    "name": "Bjerregaardsgate Øst",
+    "address": "Bjerregaardsgate 68",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 410,
+    "lat": 59.929005,
+    "lon": 10.7496755,
+    "name": "Landstads gate",
+    "address": "Circle K Kiellands",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 382,
+    "lat": 59.92958561753996,
+    "lon": 10.732839000000013,
+    "name": "Stensgata",
+    "address": "Theresesgate_Stensgata",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 623,
+    "lat": 59.9150596,
+    "lon": 10.7312715,
+    "name": "7. juni-plassen",
+    "address": "7. juni-plassen",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 5
+  },
+  {
+    "stationId": 429,
+    "lat": 59.92208,
+    "lon": 10.68588,
+    "name": "Thune",
+    "address": "Thune ved bomring",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 2328,
+    "lat": 59.912522370233745,
+    "lon": 10.750910185807754,
+    "name": "The Hub",
+    "address": "Biskop Gunnerus Gate 3",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 491,
+    "lat": 59.91366109486603,
+    "lon": 10.75729364846211,
+    "name": "Brugata",
+    "address": "Brugata 17",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 509,
+    "lat": 59.912711,
+    "lon": 10.735595,
+    "name": "Kjeld Stubs gate",
+    "address": "Kjeld Stubs gate 3",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 516,
+    "lat": 59.922839,
+    "lon": 10.775658,
+    "name": "Finnmarksgata",
+    "address": "Finnmarksgata 40",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 595,
+    "lat": 59.914871,
+    "lon": 10.701037,
+    "name": "Skarpsnoparken",
+    "address": "Skarpsnoparken",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 437,
+    "lat": 59.91546786564256,
+    "lon": 10.751140873016311,
+    "name": "Sentrum Scene",
+    "address": "Sentrum Scene",
+    "description": "",
+    "availableDocks": 16,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 441,
+    "lat": 59.903989,
+    "lon": 10.741077,
+    "name": "Vippetangen øst",
+    "address": "Vippetangen_Akershusstranden",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 2339,
+    "lat": 59.91564920880896,
+    "lon": 10.761724502548105,
+    "name": "Elgsletta",
+    "address": "Norbygata 2",
+    "description": "",
+    "availableDocks": 30,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 527,
+    "lat": 59.9123341,
+    "lon": 10.752292,
+    "name": "Biskop Gunnerus' gate",
+    "address": "Oslo City - Biskop Gunnerus gate",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 459,
+    "lat": 59.9281319,
+    "lon": 10.71842,
+    "name": "Valkyrieplassen",
+    "address": "Valkyriegata 1",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 448,
+    "lat": 59.91218291295141,
+    "lon": 10.7544337247013,
+    "name": "Oslo Plaza",
+    "address": "Oslo Plaza",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 609,
+    "lat": 59.9110506,
+    "lon": 10.7493737,
+    "name": "Fred Olsens gate",
+    "address": "Fred Olsens gate",
+    "description": "",
+    "availableDocks": 26,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 970,
+    "lat": 59.91320242563816,
+    "lon": 10.767579386407874,
+    "name": "Enerhaugen",
+    "address": "Sørligata 2",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 414,
+    "lat": 59.910242,
+    "lon": 10.73857,
+    "name": "Kontraskjæret",
+    "address": "Rådhusgata 32",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 495,
+    "lat": 59.91351552854147,
+    "lon": 10.757334670552268,
+    "name": "Vaterlandsparken",
+    "address": "Vaterlandsparken",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 22
+  },
+  {
+    "stationId": 583,
+    "lat": 59.90707579234818,
+    "lon": 10.779164402446728,
+    "name": "Galgeberg",
+    "address": "St Halvards gate 57A",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 599,
+    "lat": 59.910331,
+    "lon": 10.75011,
+    "name": "Paléhaven",
+    "address": "Palehaven",
+    "description": "",
+    "availableDocks": 46,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 545,
+    "lat": 59.9119691,
+    "lon": 10.7478583,
+    "name": "Arkaden Sør",
+    "address": "Dronningens gate ved Arkaden",
+    "description": "",
+    "availableDocks": 22,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 480,
+    "lat": 59.9121109,
+    "lon": 10.7661939,
+    "name": "Helga Helgesens plass",
+    "address": "Helga Helgesens plass",
+    "description": "",
+    "availableDocks": 23,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 548,
+    "lat": 59.91731888534716,
+    "lon": 10.716909039918278,
+    "name": "Colbjørnsens gate",
+    "address": "Colbjørnsens gate",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 398,
+    "lat": 59.92843404417577,
+    "lon": 10.75943014633117,
+    "name": "Ringnes Park",
+    "address": "Sannergata 6A",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 426,
+    "lat": 59.91728078292675,
+    "lon": 10.708375798767435,
+    "name": "Gimle Kino",
+    "address": "Gimle Kino",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 387,
+    "lat": 59.914586,
+    "lon": 10.735453,
+    "name": "Studenterlunden",
+    "address": "Karl Johans gate 47",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 500,
+    "lat": 59.9172794,
+    "lon": 10.7581553,
+    "name": "Anker Hotel",
+    "address": "Storgata 57 Anker Hotell",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 2306,
+    "lat": 59.930903961728745,
+    "lon": 10.80193969590286,
+    "name": "Økern Portal",
+    "address": "Lørenfaret 1",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 522,
+    "lat": 59.9123469,
+    "lon": 10.7638147,
+    "name": "Mandalls gate",
+    "address": "Mandalls gate",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 742,
+    "lat": 59.924342,
+    "lon": 10.79285,
+    "name": "Hasle",
+    "address": "Hasle",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 30
+  },
+  {
+    "stationId": 550,
+    "lat": 59.9261462,
+    "lon": 10.7310355,
+    "name": "Thereses gate",
+    "address": "Therese's gate 49",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 8
+  },
+  {
+    "stationId": 601,
+    "lat": 59.9534114,
+    "lon": 10.7577241,
+    "name": "Rolf Wickstrøms vei",
+    "address": "Rolf Wickstrøms vei, Bergrådveien 13",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 572,
+    "lat": 59.92226850808104,
+    "lon": 10.679579749668129,
+    "name": "Skøyen",
+    "address": "Skøyen (under bro)",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 35
+  },
+  {
+    "stationId": 484,
+    "lat": 59.92033,
+    "lon": 10.683814,
+    "name": "Karenslyst allé",
+    "address": "Karenslyst allé 9",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 403,
+    "lat": 59.921768,
+    "lon": 10.730476,
+    "name": "Parkveien",
+    "address": "Parkveien",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 1023,
+    "lat": 59.9147672,
+    "lon": 10.740971,
+    "name": "Professor Aschehougs plass",
+    "address": "Professor Aschehougs plass",
+    "description": "",
+    "availableDocks": 14,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 476,
+    "lat": 59.919111,
+    "lon": 10.736179,
+    "name": "Edvard Storms gate",
+    "address": "Pilestredet Edvard Storms",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 422,
+    "lat": 59.923703,
+    "lon": 10.740542,
+    "name": "St. Hanshaugen",
+    "address": "Waldemar Thranes gate 3",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 533,
+    "lat": 59.915262,
+    "lon": 10.7253157,
+    "name": "Sørvest for Slottsparken",
+    "address": "Henrik Ibsens gate 40",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 498,
+    "lat": 59.92763407981436,
+    "lon": 10.799249379762283,
+    "name": "HasleLinje",
+    "address": "Kavresvingen 3",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 511,
+    "lat": 59.915088,
+    "lon": 10.7222803,
+    "name": "Henrik Ibsens gate",
+    "address": "Parkveien / Henrik Ibsens gate",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 559,
+    "lat": 59.923898,
+    "lon": 10.6760339,
+    "name": "Hoffsveien",
+    "address": "Hoffsveien 1E",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 530,
+    "lat": 59.9193095,
+    "lon": 10.7343051,
+    "name": "Holbergs plass",
+    "address": "Holbergs Plass",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 592,
+    "lat": 59.94558091179507,
+    "lon": 10.760323881579982,
+    "name": "Badebakken",
+    "address": "Maridalsveien 244C",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 487,
+    "lat": 59.926929,
+    "lon": 10.776971,
+    "name": "Carl Berners plass nord",
+    "address": "Carl Berner Senter",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 473,
+    "lat": 59.926697,
+    "lon": 10.716195,
+    "name": "Majorstuveien",
+    "address": "Majorstuveien",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 8
+  },
+  {
+    "stationId": 408,
+    "lat": 59.914943,
+    "lon": 10.773977,
+    "name": "Tøyen skole",
+    "address": "Ringgata 2A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 561,
+    "lat": 59.93347989334691,
+    "lon": 10.726294394131088,
+    "name": "Kirkeveien",
+    "address": "Kirkeveien 106A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 612,
+    "lat": 59.91662195885618,
+    "lon": 10.783309055819714,
+    "name": "Ensjøveien",
+    "address": "Ensjøveien 6A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 605,
+    "lat": 59.917023632719406,
+    "lon": 10.779880090762617,
+    "name": "Økernveien",
+    "address": "Ensjøveien 38A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 505,
+    "lat": 59.93215,
+    "lon": 10.723478,
+    "name": "Marienlystparken",
+    "address": "Marienlyst / Kirkeveien",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 479,
+    "lat": 59.909467,
+    "lon": 10.722509,
+    "name": "Tjuvholmen",
+    "address": "Tjuvholmen",
+    "description": "",
+    "availableDocks": 16,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 434,
+    "lat": 59.9358883,
+    "lon": 10.7350062,
+    "name": "Lindern",
+    "address": "Kirkeveien 165",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 428,
+    "lat": 59.9193337,
+    "lon": 10.6968953,
+    "name": "Olav Kyrres plass",
+    "address": "Olav Kyrres plass",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 586,
+    "lat": 59.9294565845173,
+    "lon": 10.769121495700826,
+    "name": "Københavngata busstopp",
+    "address": "Københavngata busstopp",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 1919,
+    "lat": 59.90591083488326,
+    "lon": 10.778592132296495,
+    "name": "Kværnerveien",
+    "address": "Kværnerveien 5",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 1009,
+    "lat": 59.942742106473666,
+    "lon": 10.703833031254021,
+    "name": "Borgenveien",
+    "address": "Slemsdalsveien 70B",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 579,
+    "lat": 59.924732,
+    "lon": 10.724628,
+    "name": "Bogstadveien",
+    "address": "Bogstadveien",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 431,
+    "lat": 59.927292,
+    "lon": 10.773185,
+    "name": "Chr. Michelsens Gate",
+    "address": "Chr. Michelsens Gate 18",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 445,
+    "lat": 59.921673,
+    "lon": 10.67666,
+    "name": "Sjølyst",
+    "address": "Drammensveien 161 B",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 472,
+    "lat": 59.9378,
+    "lon": 10.7541,
+    "name": "Arendalsgata",
+    "address": "Arendalsgata / Sagene Kirke",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 568,
+    "lat": 59.9170851,
+    "lon": 10.7128796,
+    "name": "Frognerveien",
+    "address": "Frognerveien 15",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 596,
+    "lat": 59.931020132184614,
+    "lon": 10.736036647971048,
+    "name": "Idioten",
+    "address": "Ullevålsveien 79",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 413,
+    "lat": 59.929045,
+    "lon": 10.716926,
+    "name": "Majorstuen",
+    "address": "Kirkeveien 59",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 3725,
+    "lat": 59.936006155097004,
+    "lon": 10.73190903696522,
+    "name": "Vestre Aker Kirke",
+    "address": "Kirkeveien 159",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 565,
+    "lat": 59.9309181,
+    "lon": 10.7728203,
+    "name": "Mailundveien",
+    "address": "Mailundveien - Rosenhoffgata",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 737,
+    "lat": 59.908255,
+    "lon": 10.7678,
+    "name": "Munkegata",
+    "address": "Oslo gate 1B",
+    "description": "",
+    "availableDocks": 20,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 383,
+    "lat": 59.934936,
+    "lon": 10.749466,
+    "name": "Arkitekt Rivertz Plass",
+    "address": "Arkitekt Rivertz Plass",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 532,
+    "lat": 59.90918420865812,
+    "lon": 10.81431433498766,
+    "name": "Brynseng T-bane",
+    "address": "Østensjøveien 47",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 582,
+    "lat": 59.94114763297182,
+    "lon": 10.750775120272449,
+    "name": "Stavangergata",
+    "address": "Stavangergata 1",
+    "description": "",
+    "availableDocks": 14,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 409,
+    "lat": 59.940398,
+    "lon": 10.730036,
+    "name": "John Colletts plass",
+    "address": "Sognsveien 16",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 2355,
+    "lat": 59.928894918817605,
+    "lon": 10.806234776281599,
+    "name": "Økern T-bane",
+    "address": "Økernveien 147",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 394,
+    "lat": 59.943777539367225,
+    "lon": 10.760121127577955,
+    "name": "Bjølsen Studentby",
+    "address": "Bergensgata 15D",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 397,
+    "lat": 59.94671044754387,
+    "lon": 10.773805285879131,
+    "name": "Storo Storsenter",
+    "address": "Vitaminveien 21",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 40
+  },
+  {
+    "stationId": 554,
+    "lat": 59.952659,
+    "lon": 10.751165,
+    "name": "Tåsen Senter",
+    "address": "Tåsen senter ved rundkjøring",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 622,
+    "lat": 59.9238826,
+    "lon": 10.7313627,
+    "name": "Pilestredet 63",
+    "address": "Pilestredet 63",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 28
+  },
+  {
+    "stationId": 503,
+    "lat": 59.927605868377185,
+    "lon": 10.76598469881135,
+    "name": "Fagerheimgata",
+    "address": "Fagerheimgata 8",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 27
+  },
+  {
+    "stationId": 463,
+    "lat": 59.9207284,
+    "lon": 10.7594857,
+    "name": "Schous plass trikkestopp",
+    "address": "Schous plass trikkestopp",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 442,
+    "lat": 59.92251,
+    "lon": 10.75101,
+    "name": "Vulkan",
+    "address": "Vulkan 26",
+    "description": "",
+    "availableDocks": 15,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 456,
+    "lat": 59.9103558,
+    "lon": 10.7051061,
+    "name": "Frognerstranda",
+    "address": "Frognerstranda",
+    "description": "",
+    "availableDocks": 24,
+    "availableBikes": 8
+  },
+  {
+    "stationId": 2349,
+    "lat": 59.902942924651484,
+    "lon": 10.698048967006343,
+    "name": "Maritimt Museum",
+    "address": "Bygdøynesveien 37",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 521,
+    "lat": 59.9186359,
+    "lon": 10.7523939,
+    "name": "Jess Carlsens gate",
+    "address": "Jess Carlsens gate",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 625,
+    "lat": 59.91336,
+    "lon": 10.737663,
+    "name": "Spikersuppa Øst",
+    "address": "spikersuppa",
+    "description": "",
+    "availableDocks": 32,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 405,
+    "lat": 59.92808,
+    "lon": 10.708767,
+    "name": "Frognerbadet",
+    "address": "Middelthuns gate 28",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 2350,
+    "lat": 59.94025210701875,
+    "lon": 10.716723884520064,
+    "name": "Blindern T-Bane",
+    "address": "Apalveien 60",
+    "description": "",
+    "availableDocks": 7,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 483,
+    "lat": 59.915451,
+    "lon": 10.758328,
+    "name": "Hausmanns gate",
+    "address": "Hausmanns gate / Røde Kors",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 439,
+    "lat": 59.9283928,
+    "lon": 10.7559693,
+    "name": "Mølleparken",
+    "address": "Mølleparken",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 571,
+    "lat": 59.9101207,
+    "lon": 10.7407129,
+    "name": "Over Rådhusgata",
+    "address": "Nedre Slottsgate 4",
+    "description": "",
+    "availableDocks": 17,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 389,
+    "lat": 59.9205528,
+    "lon": 10.7342854,
+    "name": "Pilestredet Studenthus",
+    "address": "Pilestredet 38",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 2305,
+    "lat": 59.927777943193746,
+    "lon": 10.761256419316368,
+    "name": "Hesselbergs Gate",
+    "address": "Toftes Gate 24",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 525,
+    "lat": 59.937205,
+    "lon": 10.7605813,
+    "name": "Myraløkka Øst",
+    "address": "Arendalsgata 45",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 528,
+    "lat": 59.913245,
+    "lon": 10.743669,
+    "name": "Nedre Slottsgate",
+    "address": "Nedre Slottsgate 12",
+    "description": "",
+    "availableDocks": 14,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 499,
+    "lat": 59.925488,
+    "lon": 10.746058,
+    "name": "Bjerregaards gate",
+    "address": "Bjerregaards gate 52-32",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 517,
+    "lat": 59.9433939,
+    "lon": 10.7482848,
+    "name": "Tåsenløkka",
+    "address": "Uelands gate - Voldsløkka",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 560,
+    "lat": 59.945955,
+    "lon": 10.710392,
+    "name": "Gaustad T-bane",
+    "address": "Gaustad T-bane",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 2334,
+    "lat": 59.916544926082935,
+    "lon": 10.757428972017067,
+    "name": "Nybrua holdeplass",
+    "address": "Storgata 53a",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 2332,
+    "lat": 59.91629601075576,
+    "lon": 10.757376666842816,
+    "name": "Krohgstøtten hospital",
+    "address": "Storgata 38",
+    "description": "",
+    "availableDocks": 11,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 452,
+    "lat": 59.903989,
+    "lon": 10.740627,
+    "name": "Vippetangen vest",
+    "address": "Vippetangen",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 4552,
+    "lat": 59.912716333310414,
+    "lon": 10.813758421127346,
+    "name": "Bryn Brannstasjon",
+    "address": "Agmund Bolts vei 4",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 430,
+    "lat": 59.91372007130073,
+    "lon": 10.735886645853412,
+    "name": "Spikersuppa Vest",
+    "address": "Spikersuppa",
+    "description": "",
+    "availableDocks": 25,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 488,
+    "lat": 59.93507,
+    "lon": 10.76915,
+    "name": "Torshovparken vest",
+    "address": "Per Kvibergs gate 18",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 2308,
+    "lat": 59.91459878869395,
+    "lon": 10.753398500006654,
+    "name": "Gunerius",
+    "address": "Storgata 33",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 542,
+    "lat": 59.9224256,
+    "lon": 10.7554274,
+    "name": "Grünerhagen Nord",
+    "address": "Sofienberggata 2B",
+    "description": "",
+    "availableDocks": 16,
+    "availableBikes": 4
+  },
+  {
+    "stationId": 575,
+    "lat": 59.94743324225673,
+    "lon": 10.732569703704815,
+    "name": "Sognsveien",
+    "address": "Sognsveien ved Ullevål T-bane",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 29
+  },
+  {
+    "stationId": 514,
+    "lat": 59.9212063,
+    "lon": 10.7699892,
+    "name": "Sofienberggata",
+    "address": "Trondheimsveien 37",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 600,
+    "lat": 59.905323,
+    "lon": 10.7689579,
+    "name": "Dyvekes bru",
+    "address": "St Halvards gate 13B",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 591,
+    "lat": 59.92464487862039,
+    "lon": 10.781726510450724,
+    "name": "Grenseveien",
+    "address": "Grenseveien 19",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 611,
+    "lat": 59.908454,
+    "lon": 10.741869,
+    "name": "Bankplassen",
+    "address": "Bankplassen",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 423,
+    "lat": 59.920335,
+    "lon": 10.760804,
+    "name": "Schous plass",
+    "address": "Schous plass",
+    "description": "",
+    "availableDocks": 19,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 416,
+    "lat": 59.932383,
+    "lon": 10.741475,
+    "name": "Tannlegehøyskolen",
+    "address": "Geitmyrsveien 54",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 564,
+    "lat": 59.9224222,
+    "lon": 10.7272388,
+    "name": "Oscars gate",
+    "address": "Oscars gate - Hegdehaugsveien",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 28
+  },
+  {
+    "stationId": 402,
+    "lat": 59.93087712510462,
+    "lon": 10.791823716034969,
+    "name": "Lørenveien",
+    "address": "Lørenveien 41e",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 2347,
+    "lat": 59.89843428245928,
+    "lon": 10.674398461025874,
+    "name": "Huk 2",
+    "address": "Strømsborgveien 48",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 30
+  },
+  {
+    "stationId": 587,
+    "lat": 59.9191421,
+    "lon": 10.7196414,
+    "name": "Riddervoldplass",
+    "address": "Riddervoldplass , Camilla Colletts vei",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 493,
+    "lat": 59.9243639,
+    "lon": 10.7615858,
+    "name": "Sofienbergparken nordvest",
+    "address": "Helgesens Gate 26A",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 738,
+    "lat": 59.9034528,
+    "lon": 10.777958,
+    "name": "Lodalen busstopp",
+    "address": "Konows gate 45",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 474,
+    "lat": 59.940873733543725,
+    "lon": 10.720778851520523,
+    "name": "Blindern studentparkering",
+    "address": "Blindern studentparkering",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 41
+  },
+  {
+    "stationId": 482,
+    "lat": 59.952868,
+    "lon": 10.766483,
+    "name": "Nydalen",
+    "address": "Gjerdrumsvei 6",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 558,
+    "lat": 59.910974,
+    "lon": 10.7277001,
+    "name": "Dokkveien",
+    "address": "Dokkveien",
+    "description": "",
+    "availableDocks": 11,
+    "availableBikes": 4
+  },
+  {
+    "stationId": 506,
+    "lat": 59.92012811804052,
+    "lon": 10.768875408563598,
+    "name": "Botanisk Hage vest",
+    "address": "Botanisk Hage vest",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 2358,
+    "lat": 59.91087115068967,
+    "lon": 10.729828757277915,
+    "name": "Aker Brygge 3 mot Fergene",
+    "address": "Dokkveien 1, 0250 Oslo",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 562,
+    "lat": 59.917485,
+    "lon": 10.732128,
+    "name": "Slottsparken Øst",
+    "address": "Wergelandsveien / St Olavs gate",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 35
+  },
+  {
+    "stationId": 531,
+    "lat": 59.935947,
+    "lon": 10.681138,
+    "name": "Monolittveien",
+    "address": "Smestaddammen (Monolittveien/Hoffsveien)",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 395,
+    "lat": 59.9261831,
+    "lon": 10.7098327,
+    "name": "Frogner Tennisklubb",
+    "address": "Frogner Tennisklubb",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 748,
+    "lat": 59.914145,
+    "lon": 10.715505,
+    "name": "Hydroparken",
+    "address": "Hydroparken",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 443,
+    "lat": 59.91014291324254,
+    "lon": 10.752003700187942,
+    "name": "Sjøsiden 1 ved trappen",
+    "address": "Christian Frederiks Plass",
+    "description": "",
+    "availableDocks": 40,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 462,
+    "lat": 59.92714,
+    "lon": 10.730981,
+    "name": "Stensparken",
+    "address": "Sporveisgata",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 446,
+    "lat": 59.925471317049954,
+    "lon": 10.73121932213806,
+    "name": "Bislett Stadion",
+    "address": "Bislett Stadion",
+    "description": "",
+    "availableDocks": 7,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 594,
+    "lat": 59.915182,
+    "lon": 10.782129,
+    "name": "Kampen park Øst",
+    "address": "Kampen park øst",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 573,
+    "lat": 59.911776299209265,
+    "lon": 10.735113005880237,
+    "name": "Tordenskiolds gate",
+    "address": "Tordenskiolds gate 12",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 412,
+    "lat": 59.917866,
+    "lon": 10.754898,
+    "name": "Jakob kirke",
+    "address": "Jakob Kirke",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 489,
+    "lat": 59.91598309274519,
+    "lon": 10.75155119076095,
+    "name": "Torggata",
+    "address": "Torggata 18",
+    "description": "",
+    "availableDocks": 27,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 621,
+    "lat": 59.93285662158759,
+    "lon": 10.777633472422016,
+    "name": "Torshovdalen øst",
+    "address": "Torshovdalen øst",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 427,
+    "lat": 59.920218,
+    "lon": 10.717978,
+    "name": "Briskeby",
+    "address": "Briskeby",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 551,
+    "lat": 59.922425,
+    "lon": 10.758182,
+    "name": "Olaf Ryes plass",
+    "address": "Olaf Ryes plass 2",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 14
+  },
+  {
+    "stationId": 581,
+    "lat": 59.908227,
+    "lon": 10.781088,
+    "name": "Jordalgata",
+    "address": "Galgeberg 3G",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 23
+  },
+  {
+    "stationId": 597,
+    "lat": 59.920995,
+    "lon": 10.750358,
+    "name": "Fredensborg",
+    "address": "Fredensborgveien 64",
+    "description": "",
+    "availableDocks": 12,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 535,
+    "lat": 59.9200421,
+    "lon": 10.726634,
+    "name": "Uranienborgveien",
+    "address": "Uranienborgveien 3",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 618,
+    "lat": 59.94247260310697,
+    "lon": 10.723715245368956,
+    "name": "Bak Niels Treschows hus sør",
+    "address": "Problemveien P. A. Munchs Hus",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 41
+  },
+  {
+    "stationId": 435,
+    "lat": 59.915424,
+    "lon": 10.714577,
+    "name": "Fram-gården",
+    "address": "Fram-gården",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 438,
+    "lat": 59.949239,
+    "lon": 10.768576,
+    "name": "BI Nydalen",
+    "address": "Nydalsveien 37",
+    "description": "",
+    "availableDocks": 5,
+    "availableBikes": 37
+  },
+  {
+    "stationId": 464,
+    "lat": 59.905124380703484,
+    "lon": 10.753763553726515,
+    "name": "Sukkerbiten",
+    "address": "sukkerbiten",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 29
+  },
+  {
+    "stationId": 615,
+    "lat": 59.9135227,
+    "lon": 10.7301061,
+    "name": "Munkedamsveien",
+    "address": "Konserthuset/Munkedamsveien",
+    "description": "",
+    "availableDocks": 21,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 570,
+    "lat": 59.9347352,
+    "lon": 10.7096985,
+    "name": "Frøen T-bane",
+    "address": "Slemdalsveien 28",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 13
+  },
+  {
+    "stationId": 432,
+    "lat": 59.924821,
+    "lon": 10.739909,
+    "name": "St. Hanshaugen park sør",
+    "address": "Knud Knudsens Plass",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 496,
+    "lat": 59.937957367051965,
+    "lon": 10.719488529430388,
+    "name": "Fysikkbygningen",
+    "address": "Blindern Fysikkbygg parkering",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 44
+  },
+  {
+    "stationId": 524,
+    "lat": 59.9330870371029,
+    "lon": 10.703967938028702,
+    "name": "Volvat",
+    "address": "Sørkedalsveien 33",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 569,
+    "lat": 59.91783548782385,
+    "lon": 10.766373769557958,
+    "name": "Botanisk hage sør-vest",
+    "address": "Sars gate",
+    "description": "",
+    "availableDocks": 30,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 2337,
+    "lat": 59.91591543378553,
+    "lon": 10.737834990277321,
+    "name": "Universitetsgata",
+    "address": "Universitetsgata 18",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 4
+  },
+  {
+    "stationId": 384,
+    "lat": 59.91944043984847,
+    "lon": 10.7437646218726,
+    "name": "Vår Frelsers gravlund",
+    "address": "Ullevålsveien 9",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 478,
+    "lat": 59.911901,
+    "lon": 10.749929,
+    "name": "Jernbanetorget",
+    "address": "Fred Olsens gate 5",
+    "description": "",
+    "availableDocks": 7,
+    "availableBikes": 7
+  },
+  {
+    "stationId": 457,
+    "lat": 59.9230577,
+    "lon": 10.7717192,
+    "name": "Trondheimsveien",
+    "address": "Trondheimsveien 64",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 607,
+    "lat": 59.93277225626508,
+    "lon": 10.758594919923468,
+    "name": "Marcus Thranes gate",
+    "address": "Marcus Thranes gate 6",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 590,
+    "lat": 59.9294351,
+    "lon": 10.7136816,
+    "name": "Majorstua skole",
+    "address": "Majorstua skole",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 40
+  },
+  {
+    "stationId": 485,
+    "lat": 59.911453,
+    "lon": 10.776072,
+    "name": "Sommerfrydhagen",
+    "address": "Sommerfrydhagen",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 744,
+    "lat": 59.9315302,
+    "lon": 10.762169,
+    "name": "Hallénparken",
+    "address": "Johan Sverdrups Plass",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 555,
+    "lat": 59.9337026,
+    "lon": 10.7519299,
+    "name": "Griffenfeldts gate",
+    "address": "Colletts gate 64",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 603,
+    "lat": 59.9225392,
+    "lon": 10.7045406,
+    "name": "Frogner plass",
+    "address": "Frognerveien 58",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 2270,
+    "lat": 59.928710966693274,
+    "lon": 10.799914801820819,
+    "name": "Lørenporten",
+    "address": "Lørenveien 63",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 2304,
+    "lat": 59.91178403655783,
+    "lon": 10.783884345957915,
+    "name": "Hedmarksgata",
+    "address": "Elverumsgata - Hedmarksgata",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 420,
+    "lat": 59.94032925181832,
+    "lon": 10.766136667493829,
+    "name": "Bjølsendumpa",
+    "address": "Treschows gate 8B",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 614,
+    "lat": 59.938863086921295,
+    "lon": 10.780603250331886,
+    "name": "Sinsen T-bane",
+    "address": "Hans Nielsen Hauges gate 50",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 24
+  },
+  {
+    "stationId": 468,
+    "lat": 59.912793405455375,
+    "lon": 10.710103028570302,
+    "name": "Skillebekk",
+    "address": "Skillebekk",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 547,
+    "lat": 59.9112227,
+    "lon": 10.7481976,
+    "name": "Skippergata",
+    "address": "Skippergata - Karl Johans gate",
+    "description": "",
+    "availableDocks": 28,
+    "availableBikes": 2
+  },
+  {
+    "stationId": 2333,
+    "lat": 59.90725889890288,
+    "lon": 10.754884663589621,
+    "name": "Akerselvallmenningen",
+    "address": "Nylandsveien",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 453,
+    "lat": 59.92753764682686,
+    "lon": 10.710262803261259,
+    "name": "Frogner Stadion",
+    "address": "Frogner Stadion",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 34
+  },
+  {
+    "stationId": 626,
+    "lat": 59.9204038,
+    "lon": 10.691147,
+    "name": "Drammensveien",
+    "address": "Drammensveien 119",
+    "description": "",
+    "availableDocks": 4,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 451,
+    "lat": 59.929419,
+    "lon": 10.726195,
+    "name": "Suhms gate",
+    "address": "Suhms gate 1A",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 16
+  },
+  {
+    "stationId": 380,
+    "lat": 59.93923,
+    "lon": 10.75917,
+    "name": "Bentsebrugata",
+    "address": "Bentsebrugata 29b",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 11
+  },
+  {
+    "stationId": 584,
+    "lat": 59.9268942,
+    "lon": 10.7207894,
+    "name": "Henrik Wergelands allé",
+    "address": "Henrik Wergelands alle",
+    "description": "",
+    "availableDocks": 2,
+    "availableBikes": 33
+  },
+  {
+    "stationId": 406,
+    "lat": 59.92507,
+    "lon": 10.775996,
+    "name": "Carl Berners plass sør",
+    "address": "Frydens Gate 1A",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 12
+  },
+  {
+    "stationId": 566,
+    "lat": 59.92732814272898,
+    "lon": 10.675499599893328,
+    "name": "Hoff terrasse holdeplass",
+    "address": "Hoffsveien 22",
+    "description": "",
+    "availableDocks": 17,
+    "availableBikes": 6
+  },
+  {
+    "stationId": 440,
+    "lat": 59.9172088,
+    "lon": 10.7622135,
+    "name": "Lakkegata",
+    "address": "Lakkegata",
+    "description": "",
+    "availableDocks": 18,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 610,
+    "lat": 59.9099822,
+    "lon": 10.7914482,
+    "name": "Sotahjørnet",
+    "address": "Sotahjørnet",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 20
+  },
+  {
+    "stationId": 449,
+    "lat": 59.91357497092093,
+    "lon": 10.726229742333288,
+    "name": "Ruseløkkgården",
+    "address": "Ruseløkkgården",
+    "description": "",
+    "availableDocks": 24,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 401,
+    "lat": 59.920259,
+    "lon": 10.760629,
+    "name": "Lille Schous plass",
+    "address": "Schous Plass.",
+    "description": "",
+    "availableDocks": 6,
+    "availableBikes": 0
+  },
+  {
+    "stationId": 2351,
+    "lat": 59.95208441268443,
+    "lon": 10.727852791011173,
+    "name": "Sogn Studentby",
+    "address": "Jon P Erliens vei 1",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 18
+  },
+  {
+    "stationId": 465,
+    "lat": 59.909006,
+    "lon": 10.75618,
+    "name": "Bjørvika",
+    "address": "Dronning Eufemias gate 8",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 17
+  },
+  {
+    "stationId": 543,
+    "lat": 59.91381587564694,
+    "lon": 10.798093360118871,
+    "name": "Fyrstikktorget",
+    "address": "Grensesvingen 7",
+    "description": "",
+    "availableDocks": 1,
+    "availableBikes": 19
+  },
+  {
+    "stationId": 2315,
+    "lat": 59.90691970255054,
+    "lon": 10.760311802881915,
+    "name": "Rostockgata",
+    "address": "Rostockgata 5",
+    "description": "",
+    "availableDocks": 13,
+    "availableBikes": 3
+  },
+  {
+    "stationId": 377,
+    "lat": 59.915667,
+    "lon": 10.7775665,
+    "name": "Tøyenparken",
+    "address": "Tøyenparken",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 26
+  },
+  {
+    "stationId": 424,
+    "lat": 59.9256113,
+    "lon": 10.760926,
+    "name": "Birkelunden",
+    "address": "Seidluksgata 23",
+    "description": "",
+    "availableDocks": 9,
+    "availableBikes": 1
+  },
+  {
+    "stationId": 2309,
+    "lat": 59.92472050943934,
+    "lon": 10.810727302805304,
+    "name": "Ulven Torg",
+    "address": "Ulvenveien 89",
+    "description": "",
+    "availableDocks": 3,
+    "availableBikes": 27
+  },
+  {
+    "stationId": 2340,
+    "lat": 59.92024767905539,
+    "lon": 10.793540704010042,
+    "name": "Tiedemannsparken",
+    "address": "Hovinveien 43",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 25
+  },
+  {
+    "stationId": 576,
+    "lat": 59.911392299457006,
+    "lon": 10.747281829592453,
+    "name": "Dronningens gate",
+    "address": "Dronningens gate 25",
+    "description": "",
+    "availableDocks": 8,
+    "availableBikes": 9
+  },
+  {
+    "stationId": 513,
+    "lat": 59.9273747,
+    "lon": 10.7960147,
+    "name": "Bøkkerveien",
+    "address": "Bøkkerveien 11 ved Cafe Nord",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 15
+  },
+  {
+    "stationId": 417,
+    "lat": 59.922485,
+    "lon": 10.720896,
+    "name": "Uranienborgparken",
+    "address": "Uranienborgparken",
+    "description": "",
+    "availableDocks": 10,
+    "availableBikes": 4
+  },
+  {
+    "stationId": 529,
+    "lat": 59.9327726,
+    "lon": 10.7114661,
+    "name": "Friggfeltet",
+    "address": "Slemdalsveien ved Frigg",
+    "description": "",
+    "availableDocks": 11,
+    "availableBikes": 10
+  },
+  {
+    "stationId": 4683,
+    "lat": 59.91606483663281,
+    "lon": 10.807177606311825,
+    "name": "Valle Vision",
+    "address": "Valle Vision",
+    "description": "",
+    "availableDocks": 0,
+    "availableBikes": 21
+  },
+  {
+    "stationId": 577,
+    "lat": 59.9121472,
+    "lon": 10.7480527,
+    "name": "Arkaden Nord",
+    "address": "Dronningens gate ved Arkaden II",
+    "description": "",
+    "availableDocks": 25,
+    "availableBikes": 4
+  }
+]
